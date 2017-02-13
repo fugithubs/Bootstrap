@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Bootstrap 模板</title>
+		<title>Bootstrap练习</title>
 		<!-- 
 		确保适当的绘制和触屏缩放
 		1、width:属性控制设备的宽度。假设您的网站将被带有不同屏幕分辨率的设备浏览，那么将它设置为 device-width 可以确保它能正确呈现在不同设备上
